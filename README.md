@@ -4,6 +4,9 @@
 **Lightweeeee/Lightweeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<p> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Jeremy12106&count_private=true&show_icons=true&theme=default&line&count_private=true" alt="Jeremy12106" width="420"/> 
+ </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
