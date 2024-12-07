@@ -1,7 +1,6 @@
-## Hi there 👋
-<p> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Lightweeeee&count_private=true&show_icons=true&theme=default&line&count_private=true" alt="Lightweeeee" width="420"/> 
- </p>
+## Hi there 
+![Light's Github Stats](https://github-readme-stats.vercel.app/api?username=Lightweeeee&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightweeeee&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Lightweeeee/Lightweeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
